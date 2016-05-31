@@ -1,0 +1,222 @@
+/* CSS Document */
+
+	
+
+
+
+	
+
+
+
+	.gp-footer,
+
+	#dolly{
+
+		display:none;
+
+	}
+
+
+
+	.gp-header h1 small{
+
+		color:white !important;
+
+	}
+
+
+	.gp-section-title h3{
+
+		color:black !important;
+
+		font-weight:bold !important;	
+
+	}
+
+	.gp-element .drag,
+
+	.gp-element .delete{
+
+
+
+		display:block;
+
+		width:10px;
+
+		height:10px;
+
+		cursor:pointer;
+
+		float:right;
+
+		position:relative;
+
+		top:-20px;
+
+		right:-20px;
+
+		border-radius:6px;
+
+	}
+
+	.gp-element .drag{
+
+		top:-10px;
+
+
+	}
+
+	/*#gp_posts_meta,*/
+
+	.toplevel_page_guava-pattern #footer-thankyou{
+
+		display:none;
+
+	}
+
+	.toplevel_page_avia .avia_options_page_sidebar .avia_header{
+
+		background:url("http://guavapattern.com/images/logo.png");
+
+		background-repeat:no-repeat;
+
+		background-size:80px;
+
+		background-position:center center;
+
+	}
+
+	.switchable_lang {
+
+		background-color: #0073aa;
+
+		color: #fff;
+
+		display: none;
+
+		width: 50%;
+
+	}
+
+	.switchable_lang optgroup{
+
+		font-size:16px;
+
+	}
+
+	
+
+	.sl_area .button-primary,
+
+	.sl_area .button-secondary {
+
+		font-size: 12px;
+
+		margin-right: 2px;
+
+		padding: 0 4px;
+
+	}
+
+	
+
+	.wp-docs,
+
+	.wp-fa{
+
+		color:#fff;
+
+		position:absolute;
+
+		richness:0;
+
+		text-decoration:none;
+
+	}
+
+
+		
+
+	.wp-fa {
+
+		border-left: 1px solid #fff;
+
+		left: 90px;
+
+		padding-left: 10px;
+
+		position: relative;
+
+	}	
+
+	a.repeater-plus,
+	a.repeater-group-plus {
+		color: #000;
+		cursor: pointer;
+		position: absolute;
+		right: 40px;
+		text-transform: uppercase;
+		top: 6px;
+	}
+	a.repeater-minus,
+	a.repeater-group-minus{
+		color:#F00;
+		cursor: pointer;
+	}
+
+	a.repeater-group-minus {
+		position: relative;
+		text-transform: uppercase;
+		top: -28px;
+	}
+	a.repeater-group-plus {
+		top: -28px;
+	}
+	
+
+	.repeater.gp-section .repeater-plus, 
+	.repeater.gp-section .repeater-minus, 
+	.repeater.gp-section .delete, 
+	.repeater.gp-section .drag {
+		display: none;
+	}	
+	
+	.repeater.gp-section .gp-element {
+		padding: 8px 20px;
+		border-bottom: none;
+	}
+	.repeater.gp-section .gp-fieldset .repeater-field{
+		display:none;
+	}
+	
+	.rfields {
+		margin: 0 18px;
+		padding: 0;
+	}
+	
+	.rfields li{
+		float:left;
+		margin-right:1px;
+	}	
+		
+	.rfields li a {
+		border: 1px solid #fff;
+		background-color: #0085ba;
+		border-radius: 2px;
+		color: #fff;
+		float: left;
+		padding: 4px 8px;
+		text-align: center;
+		cursor:pointer;
+	}
+	.rfields li a.active,
+	.rfields li a:hover {
+		border: 1px solid #0085ba;
+		background-color:#fff;
+		color:#0085ba;
+	}
+	
+	#cf7s a[href="#tab-style"],
+	#cf7s .tab-style {
+		display: none;
+	}	
